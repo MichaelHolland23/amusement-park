@@ -1,0 +1,10 @@
+#heightup, #allrides {
+  display: none;
+}
+.highlight {
+  color: green;
+}
+img {
+  width: 300px;
+  height: auto;
+}
